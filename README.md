@@ -1,2 +1,2 @@
 # BinaryTree
-Binary Tree tinkering lab.
+Binary Tree tinkering project.
